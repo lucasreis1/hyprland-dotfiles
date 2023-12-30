@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/Maybe_We_Should_Stay_Here-waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0e0f",
+        "foreground": "#f4fcff",
+        "cursor": "#f4fcff"
+    },
+    "colors": {
+        "color0": "#0a0e0f",
+        "color1": "#5B7DA9",
+        "color2": "#496992",
+        "color3": "#648AB2",
+        "color4": "#3D5F89",
+        "color5": "#7098C3",
+        "color6": "#88B8D2",
+        "color7": "#cad1dc",
+        "color8": "#1d2a2d",
+        "color9": "#65a0ec",
+        "color10": "#5086cc",
+        "color11": "#6fb2f9",
+        "color12": "#427abe",
+        "color13": "#7dc4ff",
+        "color14": "#9af5ff",
+        "color15": "#f4fcff"
+    }
+}

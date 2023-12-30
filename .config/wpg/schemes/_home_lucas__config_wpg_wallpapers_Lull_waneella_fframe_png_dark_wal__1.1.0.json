@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/Lull_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0C1213",
+        "foreground": "#d6ffff",
+        "cursor": "#d6ffff"
+    },
+    "colors": {
+        "color0": "#0C1213",
+        "color1": "#983B54",
+        "color2": "#61559C",
+        "color3": "#9152B2",
+        "color4": "#4153BB",
+        "color5": "#DE53B6",
+        "color6": "#966DD6",
+        "color7": "#a6c6e5",
+        "color8": "#1e2f32",
+        "color9": "#d33e66",
+        "color10": "#735eda",
+        "color11": "#c159f8",
+        "color12": "#4460ff",
+        "color13": "#ff58f5",
+        "color14": "#be78ff",
+        "color15": "#d6ffff"
+    }
+}

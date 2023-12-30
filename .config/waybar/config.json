@@ -1,0 +1,43 @@
+[{
+    "layer": "top", // Waybar at top layer
+    "position": "top", // Waybar position (top|bottom|left|right)
+    "height": 20, // Waybar height (to be removed for auto height)
+    // "width": 1280, // Waybar width
+    "spacing": 4, // Gaps between modules (4px)
+    // Choose the order of the modules
+    "modules-left": ["hyprland/workspaces"],
+    "modules-center": ["custom/ncspot"],
+    "modules-right": [ "group/right"],
+    // Modules configuration
+    "include": [
+      "~/.config/waybar/modules.json"
+    ]
+},
+
+{"layer": "top", // Waybar at top layer
+    "position": "bottom", // Waybar position (top|bottom|left|right)
+    "output": "DP-3",
+    "height": 10, // Waybar height (to be removed for auto height)
+    // "width": 1280, // Waybar width
+    "spacing": 3, // Gaps between modules (4px)
+    // Choose the order of the modules
+    "modules-left": ["hyprland/language", "custom/weather", "bluetooth"],
+    "modules-center": ["group/disks", "group/hardware"],
+    "modules-right": ["tray"],
+    "include": [
+      "~/.config/waybar/modules.json"
+    ]
+},
+{ "layer": "top", // Waybar at top layer
+    "output": "DP-2",
+    "position": "bottom", // Waybar position (top|bottom|left|right)
+    "height": 10, // Waybar height (to be removed for auto height)
+    // "width": 1280, // Waybar width
+    "spacing": 3, // Gaps between modules (4px)
+    // Choose the order of the modules
+    "modules-left": ["hyprland/language", "custom/weather", "bluetooth"],
+    "modules-center": ["group/disks", "group/hardware"],
+    "include": [
+      "~/.config/waybar/modules.json"
+    ]
+}]

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/arseniy_room_1440p.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f1019",
+        "foreground": "#cad5fd",
+        "cursor": "#cad5fd"
+    },
+    "colors": {
+        "color0": "#0f1019",
+        "color1": "#8A603B",
+        "color2": "#5F515B",
+        "color3": "#AE9463",
+        "color4": "#384763",
+        "color5": "#926E56",
+        "color6": "#49384D",
+        "color7": "#959dbb",
+        "color8": "#212338",
+        "color9": "#c07b3f",
+        "color10": "#865d7b",
+        "color11": "#f3c56e",
+        "color12": "#3e598a",
+        "color13": "#cc8b60",
+        "color14": "#64406c",
+        "color15": "#cad5fd"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/Warm_Days_Pt-2_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E0F13",
+        "foreground": "#cee5ff",
+        "cursor": "#cee5ff"
+    },
+    "colors": {
+        "color0": "#0E0F13",
+        "color1": "#CB3C2A",
+        "color2": "#5F5161",
+        "color3": "#CF897C",
+        "color4": "#2E4B67",
+        "color5": "#C45E50",
+        "color6": "#AB372C",
+        "color7": "#99aabf",
+        "color8": "#222530",
+        "color9": "#ff4126",
+        "color10": "#845d89",
+        "color11": "#ffa38b",
+        "color12": "#32618f",
+        "color13": "#ff6c56",
+        "color14": "#ec3b2b",
+        "color15": "#cee5ff"
+    }
+}

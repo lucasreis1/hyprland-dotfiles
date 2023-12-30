@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/Old-Town_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#120c0a",
+        "foreground": "#fff8d3",
+        "cursor": "#fff8d3"
+    },
+    "colors": {
+        "color0": "#120c0a",
+        "color1": "#914C37",
+        "color2": "#949E6D",
+        "color3": "#CF784A",
+        "color4": "#785747",
+        "color5": "#A2684D",
+        "color6": "#6D4638",
+        "color7": "#e9c2a5",
+        "color8": "#32211b",
+        "color9": "#c95b3a",
+        "color10": "#cade7c",
+        "color11": "#ff964d",
+        "color12": "#a86c4f",
+        "color13": "#e28154",
+        "color14": "#98553e",
+        "color15": "#fff8d3"
+    }
+}

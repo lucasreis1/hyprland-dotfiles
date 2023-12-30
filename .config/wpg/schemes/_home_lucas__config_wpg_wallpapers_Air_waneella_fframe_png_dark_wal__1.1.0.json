@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/Air_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#12120c",
+        "foreground": "#c4ffff",
+        "cursor": "#c4ffff"
+    },
+    "colors": {
+        "color0": "#12120c",
+        "color1": "#7fb7eb",
+        "color2": "#7a8ec8",
+        "color3": "#f591c6",
+        "color4": "#598dac",
+        "color5": "#f07c94",
+        "color6": "#3596e5",
+        "color7": "#a5d9ff",
+        "color8": "#32341e",
+        "color9": "#90ffff",
+        "color10": "#88b1ff",
+        "color11": "#ffa7ff",
+        "color12": "#62bff1",
+        "color13": "#ff90c3",
+        "color14": "#37cfff",
+        "color15": "#c4ffff"
+    }
+}

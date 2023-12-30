@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/Dark_Corners_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0d09",
+        "foreground": "#faffff",
+        "cursor": "#faffff"
+    },
+    "colors": {
+        "color0": "#0a0d09",
+        "color1": "#BD5E44",
+        "color2": "#3C4843",
+        "color3": "#8D8A7F",
+        "color4": "#514D48",
+        "color5": "#6D6760",
+        "color6": "#53483A",
+        "color7": "#c5cacc",
+        "color8": "#202b1d",
+        "color9": "#ff7047",
+        "color10": "#456658",
+        "color11": "#c8bd93",
+        "color12": "#736553",
+        "color13": "#9a866f",
+        "color14": "#755e42",
+        "color15": "#faffff"
+    }
+}

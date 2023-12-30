@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/arseniy_riverside_1440p.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1d2b3e",
+        "foreground": "#e4ffff",
+        "cursor": "#e4ffff"
+    },
+    "colors": {
+        "color0": "#1d2b3e",
+        "color1": "#8C7C85",
+        "color2": "#699FBF",
+        "color3": "#D6B3AD",
+        "color4": "#338DEF",
+        "color5": "#B6A9B1",
+        "color6": "#57A7EC",
+        "color7": "#c7e2f5",
+        "color8": "#2c4260",
+        "color9": "#c790af",
+        "color10": "#75d3ff",
+        "color11": "#ffd6c7",
+        "color12": "#2fb6ff",
+        "color13": "#ffc4eb",
+        "color14": "#5cdaff",
+        "color15": "#e4ffff"
+    }
+}

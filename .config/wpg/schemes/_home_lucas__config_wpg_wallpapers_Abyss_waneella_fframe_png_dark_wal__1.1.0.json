@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/Abyss_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0d0e",
+        "foreground": "#fff5ff",
+        "cursor": "#fff5ff"
+    },
+    "colors": {
+        "color0": "#0a0d0e",
+        "color1": "#B74F36",
+        "color2": "#ADA5D3",
+        "color3": "#9C84A2",
+        "color4": "#576CBA",
+        "color5": "#D5A4B0",
+        "color6": "#626EA3",
+        "color7": "#ded0e0",
+        "color8": "#1e282b",
+        "color9": "#fd5d36",
+        "color10": "#d1beff",
+        "color11": "#d698e5",
+        "color12": "#5f82ff",
+        "color13": "#ffbcd8",
+        "color14": "#6e84e4",
+        "color15": "#fff5ff"
+    }
+}

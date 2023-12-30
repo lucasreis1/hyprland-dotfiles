@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/Shadow_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0b0d",
+        "foreground": "#fff0e4",
+        "cursor": "#fff0e4"
+    },
+    "colors": {
+        "color0": "#0d0b0d",
+        "color1": "#BF7167",
+        "color2": "#B58474",
+        "color3": "#D5907D",
+        "color4": "#657681",
+        "color5": "#B6AEB4",
+        "color6": "#878591",
+        "color7": "#e3c2b9",
+        "color8": "#282128",
+        "color9": "#ff8472",
+        "color10": "#fea183",
+        "color11": "#ffae8c",
+        "color12": "#749cb6",
+        "color13": "#ffcbf5",
+        "color14": "#a39ace",
+        "color15": "#fff0e4"
+    }
+}

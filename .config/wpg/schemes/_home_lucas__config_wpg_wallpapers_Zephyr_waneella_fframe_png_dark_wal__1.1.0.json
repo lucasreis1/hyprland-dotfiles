@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/Zephyr_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#240e0e",
+        "foreground": "#e2ffff",
+        "cursor": "#e2ffff"
+    },
+    "colors": {
+        "color0": "#240e0e",
+        "color1": "#9f6592",
+        "color2": "#f99ec5",
+        "color3": "#ed8d9c",
+        "color4": "#bc7ca6",
+        "color5": "#e86379",
+        "color6": "#87abfc",
+        "color7": "#b9ccff",
+        "color8": "#471d1d",
+        "color9": "#e072c7",
+        "color10": "#ffb0ff",
+        "color11": "#ffa2c3",
+        "color12": "#ff8bdc",
+        "color13": "#ff6e93",
+        "color14": "#9ae2ff",
+        "color15": "#e2ffff"
+    }
+}

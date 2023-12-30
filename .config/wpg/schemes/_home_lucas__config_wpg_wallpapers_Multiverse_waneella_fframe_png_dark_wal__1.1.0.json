@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/Multiverse_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0b07",
+        "foreground": "#e6eefa",
+        "cursor": "#e6eefa"
+    },
+    "colors": {
+        "color0": "#0d0b07",
+        "color1": "#C77A3D",
+        "color2": "#65594C",
+        "color3": "#DFA96E",
+        "color4": "#9A6B48",
+        "color5": "#C49658",
+        "color6": "#925B33",
+        "color7": "#adb3bc",
+        "color8": "#2e2617",
+        "color9": "#ff9c3e",
+        "color10": "#8e7457",
+        "color11": "#ffdc79",
+        "color12": "#d6884e",
+        "color13": "#ffc55f",
+        "color14": "#ca7435",
+        "color15": "#e6eefa"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/Looks_Like_A_Nice_Place_Pt-2_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0e1c16",
+        "foreground": "#fff5e9",
+        "cursor": "#fff5e9"
+    },
+    "colors": {
+        "color0": "#0e1c16",
+        "color1": "#e7935b",
+        "color2": "#d94834",
+        "color3": "#ec5e5e",
+        "color4": "#7e917b",
+        "color5": "#b87789",
+        "color6": "#b7605e",
+        "color7": "#f4c8c0",
+        "color8": "#1f3c2f",
+        "color9": "#ffba62",
+        "color10": "#ff4e33",
+        "color11": "#ff6565",
+        "color12": "#93ca8c",
+        "color13": "#fe85a5",
+        "color14": "#fc6c66",
+        "color15": "#fff5e9"
+    }
+}

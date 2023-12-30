@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/02_25.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0b06",
+        "foreground": "#fffbd5",
+        "cursor": "#fffbd5"
+    },
+    "colors": {
+        "color0": "#0d0b06",
+        "color1": "#8D3B25",
+        "color2": "#6A5744",
+        "color3": "#B96A41",
+        "color4": "#6A4834",
+        "color5": "#9D512F",
+        "color6": "#693B2C",
+        "color7": "#dec0a3",
+        "color8": "#302814",
+        "color9": "#c24524",
+        "color10": "#95714d",
+        "color11": "#ff8444",
+        "color12": "#945a39",
+        "color13": "#d9642f",
+        "color14": "#92472f",
+        "color15": "#fffbd5"
+    }
+}

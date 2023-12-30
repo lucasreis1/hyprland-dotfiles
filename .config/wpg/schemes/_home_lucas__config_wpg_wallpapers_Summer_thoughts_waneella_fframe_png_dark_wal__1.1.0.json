@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/Summer_thoughts_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#091F3C",
+        "foreground": "#fafdff",
+        "cursor": "#fafdff"
+    },
+    "colors": {
+        "color0": "#091F3C",
+        "color1": "#74879D",
+        "color2": "#5A7692",
+        "color3": "#A59065",
+        "color4": "#3B6187",
+        "color5": "#979DAC",
+        "color6": "#6C98C4",
+        "color7": "#d2d4d9",
+        "color8": "#0e3568",
+        "color9": "#85aedd",
+        "color10": "#6599cd",
+        "color11": "#e7c172",
+        "color12": "#407ebc",
+        "color13": "#afc3f4",
+        "color14": "#78c5ff",
+        "color15": "#fafdff"
+    }
+}

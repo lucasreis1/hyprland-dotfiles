@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/XP-pen-review-artwork-waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0705",
+        "foreground": "#fff2d2",
+        "cursor": "#fff2d2"
+    },
+    "colors": {
+        "color0": "#0c0705",
+        "color1": "#AB2610",
+        "color2": "#67564F",
+        "color3": "#E85825",
+        "color4": "#533F41",
+        "color5": "#C8462E",
+        "color6": "#8D1106",
+        "color7": "#f2c4aa",
+        "color8": "#301b12",
+        "color9": "#ea2808",
+        "color10": "#916a5a",
+        "color11": "#ff6a1e",
+        "color12": "#75484c",
+        "color13": "#ff4f2b",
+        "color14": "#be1001",
+        "color15": "#fff2d2"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/This_One_Still_Works_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0F1B1B",
+        "foreground": "#ffecec",
+        "cursor": "#ffecec"
+    },
+    "colors": {
+        "color0": "#0F1B1B",
+        "color1": "#BB4A3F",
+        "color2": "#375769",
+        "color3": "#496474",
+        "color4": "#386299",
+        "color5": "#4A718F",
+        "color6": "#69A8D5",
+        "color7": "#d3b7b7",
+        "color8": "#203b3b",
+        "color9": "#ff5241",
+        "color10": "#3d7492",
+        "color11": "#5285a3",
+        "color12": "#3b7dd4",
+        "color13": "#5294c8",
+        "color14": "#73ddff",
+        "color15": "#ffecec"
+    }
+}

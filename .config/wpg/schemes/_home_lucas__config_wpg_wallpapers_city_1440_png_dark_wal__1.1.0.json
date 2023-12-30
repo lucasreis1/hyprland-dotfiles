@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/city_1440.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0C1119",
+        "foreground": "#fffefd",
+        "cursor": "#fffefd"
+    },
+    "colors": {
+        "color0": "#0C1119",
+        "color1": "#BC5A30",
+        "color2": "#625D60",
+        "color3": "#C0976D",
+        "color4": "#537298",
+        "color5": "#986664",
+        "color6": "#7990A1",
+        "color7": "#d4d2d1",
+        "color8": "#1b273b",
+        "color9": "#ff6e2e",
+        "color10": "#8b6c7f",
+        "color11": "#ffc47a",
+        "color12": "#5c92d4",
+        "color13": "#d57571",
+        "color14": "#8bbde3",
+        "color15": "#fffefd"
+    }
+}

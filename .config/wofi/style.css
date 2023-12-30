@@ -1,0 +1,54 @@
+@import "/home/lucas/.config/waybar/colors.css";
+
+#window {
+    background-color: alpha(shade(@color2, 0.3), 0.6);
+    /*border: 1px solid rgba(255, 0, 0, 0.5);*/
+    margin-right: 200px;
+}
+ 
+/*
+#outer-box {
+    background-color: rgba(20, 20,20, 0.7);
+    border: 1px solid rgba(255, 0, 0, 0.5);
+}*/
+ 
+#input {
+    color: @foreground;
+    border: 1px solid @color1;
+    border-radius: 20px; 
+ 
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+ 
+    box-shadow: none;
+    background-color: @color9;
+}
+ 
+#input:focus {
+    color: @color3;
+    border: 1px solid @color10;
+ 
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+ 
+    box-shadow: none;
+    background-color: @color2;
+}
+ 
+#entry {
+    font-family: JetBrainsMono;
+    border-radius: 20px;
+    margin: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding-left: 10px;
+}
+ 
+#entry:focus {
+    background: @color3;
+    border: 1px solid @color11;
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/Horizon_Pt-2_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0b10",
+        "foreground": "#f2e6f4",
+        "cursor": "#f2e6f4"
+    },
+    "colors": {
+        "color0": "#0a0b10",
+        "color1": "#CE7275",
+        "color2": "#8D6578",
+        "color3": "#8D635C",
+        "color4": "#7F697F",
+        "color5": "#A05D6E",
+        "color6": "#9A5E70",
+        "color7": "#b5acb7",
+        "color8": "#1c1f2f",
+        "color9": "#ff7f84",
+        "color10": "#c6739b",
+        "color11": "#c67568",
+        "color12": "#b479b4",
+        "color13": "#e06886",
+        "color14": "#d86a8b",
+        "color15": "#f2e6f4"
+    }
+}

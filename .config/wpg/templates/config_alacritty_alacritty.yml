@@ -1,0 +1,35 @@
+font:
+  size: 13.0
+  normal:
+    family: DroidSansMNerdFont
+    style: Book
+colors:
+  primary:
+    background: '#0c0705'
+    foreground: '#fff2d2'
+  cursor:
+    text:       '#0c0705'
+    cursor:     '#f2c4aa'
+  normal:
+    black:      '#0c0705'
+    red:        '#AB2610'
+    green:      '#67564F'
+    yellow:     '#E85825'
+    blue:       '#533F41'
+    magenta:    '#C8462E'
+    cyan:       '#8D1106'
+    white:      '#f2c4aa'
+  bright:
+    black:      '#301b12'
+    red:        '#ea2808'
+    green:      '#916a5a'
+    yellow:     '#ff6a1e'
+    blue:       '#75484c'
+    magenta:    '#ff4f2b'
+    cyan:       '#be1001'
+    white:      '#fff2d2'
+
+window:
+  opacity: 0.9
+
+live_config_reload: true

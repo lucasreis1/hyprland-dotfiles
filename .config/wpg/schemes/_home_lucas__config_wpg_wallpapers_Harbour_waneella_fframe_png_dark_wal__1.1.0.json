@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/Harbour_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f1113",
+        "foreground": "#e8f9ff",
+        "cursor": "#e8f9ff"
+    },
+    "colors": {
+        "color0": "#0f1113",
+        "color1": "#9E5663",
+        "color2": "#645560",
+        "color3": "#9C896A",
+        "color4": "#3A6D88",
+        "color5": "#B5748D",
+        "color6": "#5D6F8D",
+        "color7": "#b0bdc6",
+        "color8": "#24292f",
+        "color9": "#dd5f76",
+        "color10": "#8d6282",
+        "color11": "#dbb678",
+        "color12": "#3e91bd",
+        "color13": "#fe83b2",
+        "color14": "#698cc6",
+        "color15": "#e8f9ff"
+    }
+}

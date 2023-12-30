@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/Evening_forecast_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0F151A",
+        "foreground": "#fdffff",
+        "cursor": "#fdffff"
+    },
+    "colors": {
+        "color0": "#0F151A",
+        "color1": "#A84740",
+        "color2": "#698474",
+        "color3": "#9B8A74",
+        "color4": "#626556",
+        "color5": "#8E6656",
+        "color6": "#64909A",
+        "color7": "#c4c6c7",
+        "color8": "#202e3a",
+        "color9": "#e94f44",
+        "color10": "#79ba93",
+        "color11": "#dbb585",
+        "color12": "#868f63",
+        "color13": "#c77e61",
+        "color14": "#71c5d8",
+        "color15": "#fdffff"
+    }
+}

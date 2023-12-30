@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/Rose_Waves_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0b07",
+        "foreground": "#e2faff",
+        "cursor": "#e2faff"
+    },
+    "colors": {
+        "color0": "#0a0b07",
+        "color1": "#C83D29",
+        "color2": "#615652",
+        "color3": "#D36C64",
+        "color4": "#467A9A",
+        "color5": "#AC5452",
+        "color6": "#A4896B",
+        "color7": "#acbecc",
+        "color8": "#262a19",
+        "color9": "#ff4325",
+        "color10": "#896a5f",
+        "color11": "#ff7b6d",
+        "color12": "#4ca2d6",
+        "color13": "#f05d5a",
+        "color14": "#e6b379",
+        "color15": "#e2faff"
+    }
+}

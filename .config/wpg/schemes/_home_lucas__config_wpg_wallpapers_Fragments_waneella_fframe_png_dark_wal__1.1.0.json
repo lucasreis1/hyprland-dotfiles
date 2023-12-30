@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/Fragments_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0d0d",
+        "foreground": "#f6f6ff",
+        "cursor": "#f6f6ff"
+    },
+    "colors": {
+        "color0": "#0b0d0d",
+        "color1": "#AB6D52",
+        "color2": "#495869",
+        "color3": "#364C68",
+        "color4": "#31498E",
+        "color5": "#556B95",
+        "color6": "#718AB4",
+        "color7": "#c5c5d2",
+        "color8": "#212828",
+        "color9": "#ee875a",
+        "color10": "#537194",
+        "color11": "#3b6191",
+        "color12": "#3358c5",
+        "color13": "#5f86d0",
+        "color14": "#7faefd",
+        "color15": "#f6f6ff"
+    }
+}

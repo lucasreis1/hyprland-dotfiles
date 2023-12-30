@@ -1,0 +1,39 @@
+live_config_reload = true
+
+[colors.bright]
+black = "#301b12"
+blue = "#75484c"
+cyan = "#be1001"
+green = "#916a5a"
+magenta = "#ff4f2b"
+red = "#ea2808"
+white = "#fff2d2"
+yellow = "#ff6a1e"
+
+[colors.cursor]
+cursor = "#f2c4aa"
+text = "#0c0705"
+
+[colors.normal]
+black = "#0c0705"
+blue = "#533F41"
+cyan = "#8D1106"
+green = "#67564F"
+magenta = "#C8462E"
+red = "#AB2610"
+white = "#f2c4aa"
+yellow = "#E85825"
+
+[colors.primary]
+background = "#0c0705"
+foreground = "#fff2d2"
+
+[font]
+size = 13.0
+
+[font.normal]
+family = "DroidSansMNerdFont"
+style = "Book"
+
+[window]
+opacity = 0.9

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/Dim_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0e181e",
+        "foreground": "#f4edff",
+        "cursor": "#f4edff"
+    },
+    "colors": {
+        "color0": "#0e181e",
+        "color1": "#837EB2",
+        "color2": "#5C70A3",
+        "color3": "#7083B9",
+        "color4": "#5B7DC6",
+        "color5": "#9695D3",
+        "color6": "#7391D8",
+        "color7": "#ccc6e4",
+        "color8": "#1d3340",
+        "color9": "#9a90fb",
+        "color10": "#678ae4",
+        "color11": "#7ea1ff",
+        "color12": "#639bff",
+        "color13": "#acaaff",
+        "color14": "#7fb3ff",
+        "color15": "#f4edff"
+    }
+}

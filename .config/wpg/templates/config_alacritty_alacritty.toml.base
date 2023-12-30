@@ -1,0 +1,39 @@
+live_config_reload = true
+
+[colors.bright]
+black = "{color0}"
+blue = "{color4}"
+cyan = "{color6}"
+green = "{color2}"
+magenta = "{color5}"
+red = "{color9}"
+white = "{color15}"
+yellow = "{color11}"
+
+[colors.cursor]
+cursor = "{color7}"
+text = "{color0}"
+
+[colors.normal]
+black = "{color8}"
+blue = "{color12}"
+cyan = "{color14}"
+green = "{color10}"
+magenta = "{color13}"
+red = "{color9}"
+white = "{color15}"
+yellow = "{color11}"
+
+[colors.primary]
+background = "{color0}"
+foreground = "{color15}"
+
+[font]
+size = 13.0
+
+[font.normal]
+family = "DroidSansMNerdFont"
+style = "Book"
+
+[window]
+opacity = 0.9

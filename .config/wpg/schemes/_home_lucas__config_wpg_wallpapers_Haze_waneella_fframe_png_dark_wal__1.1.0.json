@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/Haze_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0802",
+        "foreground": "#ffefd7",
+        "cursor": "#ffefd7"
+    },
+    "colors": {
+        "color0": "#0b0802",
+        "color1": "#B6522F",
+        "color2": "#776346",
+        "color3": "#B88B72",
+        "color4": "#94735B",
+        "color5": "#978670",
+        "color6": "#97542D",
+        "color7": "#edc1ae",
+        "color8": "#382706",
+        "color9": "#fb632e",
+        "color10": "#a6824e",
+        "color11": "#ffaf80",
+        "color12": "#cf9366",
+        "color13": "#d5b080",
+        "color14": "#d1692d",
+        "color15": "#ffefd7"
+    }
+}

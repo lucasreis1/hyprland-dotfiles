@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/On-The-Hill_waneella.fframe_png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090f0d",
+        "foreground": "#fdfdff",
+        "cursor": "#fdfdff"
+    },
+    "colors": {
+        "color0": "#090f0d",
+        "color1": "#A1583B",
+        "color2": "#4A504F",
+        "color3": "#B39773",
+        "color4": "#324A4D",
+        "color5": "#5F656B",
+        "color6": "#737986",
+        "color7": "#c2c2c4",
+        "color8": "#1b2e28",
+        "color9": "#df6c3e",
+        "color10": "#56716d",
+        "color11": "#fbc682",
+        "color12": "#38666c",
+        "color13": "#6e8398",
+        "color14": "#8597be",
+        "color15": "#fdfdff"
+    }
+}
